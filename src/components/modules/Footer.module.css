@@ -1,0 +1,63 @@
+.back {
+    background-color: #262626;
+}
+.container {
+    margin: 56px 81px 0 81px;
+}
+.logo{
+    margin-top: 56px;
+    padding-top: 56px;
+}
+
+.cols {
+    display: flex;
+    justify-content: flex-start;
+}
+.col1{
+    margin-right: 10%;
+}
+.col{
+    margin-right: 10%;
+}
+.row{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+    margin-bottom: 23px;
+}
+
+select{
+    width: 200px;
+    height: 40px;
+    background-color: #3B3B3B;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.appStores{
+    display: flex;
+    justify-content: center;
+}
+
+.bottomText{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+.bottomText span{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: 13px;
+    color: #FFFFFF;
+    margin-right: 174px;
+}
+

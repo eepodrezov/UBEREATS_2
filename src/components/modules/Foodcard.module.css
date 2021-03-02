@@ -1,0 +1,10 @@
+.container{
+    width: 470px;
+}
+
+.card{
+    display: flex;
+}
+.col1{
+    margin-right: 40px;
+}
